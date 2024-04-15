@@ -1,0 +1,112 @@
+14/04/2023
+#data types in java 
+primitive and non primitive 
+primitive 
+=>char- where we used to store chareacter like 'a' 'b' 'c' etc... 
+ in chareacter any chareacter can be stored but not in form like "ab". 
+=>bytes- where we used to store values like 1, 4, 5, 7 etc...
+note byte data type can store variales upto [-128 to 127] total=256.
+=> boolean variable is used to declare true or false 
+   it can store only true or false.
+=>float 
+  float is used to store variables in decimal format eg. 10.5
+
+********************************************************************
+taking input from the user
+to take input from the user there are three typre they are:- 
+next()
+nextline()
+for more details refer to the ss attached to the=his folder
+
+
+*******************************************************************
+type conversion 
+in java you can convert 
+int to float, double and long 
+but you cannot convert long to int and booolean and son on becase the value which wiil being stored
+can be less or greatear than  original value 
+matlab destination value should be more than original value 
+*here value bole toh 1 value ki memory *
+for eg 1 int value takes a capacity of 4bytes 
+and long takes memory of 8 bytes so conversion can be made but it cannnot perforn vice-versa
+in short order goes as follows 
+byte-> int-> float-> long->double 
+
+**********************************************************
+OPERATORS IN JAVA 
+
+symbos that tells compiler to perform operation 
+for eg 
+sum= a+b
+here a and b are the operands 
+and + sign is an OPERATOR
+
+types of operators 
+arithmatic (binary/uniary)
+logical 
+relational  
+bitwise 
+assgnment 
+
+In arithmaticoperators there are two types
+they are 
+binary two operands 
+unary single 
+
+binary ka matlab hota hai two
+yani two operands chahiye hota hai jaise ki a aur b.
+ unary operators
+ in unary OPERATOR there are od two types
+ (a=a+1)
+ pre increment (++a)
+ Pre decrement (--a)
+ post increment (a++)
+ post decrement (a--)
+
+/////////////////////
+
+loops
+while mai condition pehle dekte aur kam hota hai
+do while loop mai pehle kam hota hai fir cindition dekta hai 
+for loop 
+
+24/06/2023
+//////////////////////////////
+Arrays 
+an array is like a memory storing only same type of elements
+foe example if an int elements is entered the int will be stores in that array any string value cannot be stored
+it is placed on a contigious location 
+//////////////////////////////
+operation in arrays 
+create 
+input
+output 
+update
+
+for trapping rain water refer physical notes
+
+java mai 2 types ka variables hai 
+1 object type 
+2 variable type ya primitive type 
+
+///////////////////////////////////////////////////////////
+object oriented programming 
+java mai class ka nam ka 1st letter capital mai hoga aur functions ka nam ka letter chota hoga 
+
+road map to dsa 
+
+3.1 Arrays & Strings. ... done 
+3.2 Multidimensional Arrays. ...
+3.3 Recursion and Backtracking. ...
+3.4 Sorting Algorithms. ...
+3.5 Binary Search Applications. ...
+3.6 Linked Lists. ...
+3.7 Stacks and Queues. ...
+3.8 Binary Trees
+
+/"""""divide and conquer""""\
+quick Sort
+1 step - take an pivot element 
+2 position (partiton)- arrange them
+3 apply quick sort Algorithms
+
